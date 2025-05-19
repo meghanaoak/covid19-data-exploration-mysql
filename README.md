@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Data Exploration using SQL
+# 🦠 COVID-19 Data Exploration using MySQL
 
 This project explores a COVID-19 dataset using **MySQL** to uncover meaningful trends and insights related to cases, deaths, and vaccinations.  
 It simulates a real-world data analyst task of extracting insights from large datasets.
