@@ -9,7 +9,6 @@ SELECT * FROM covidvaccinations;
  from coviddeaths;
  
  -- Looking at Total cases vs total deaths
- -- Shows likelihood of dying if you contract covid in ypur country
 Select location, `Date`, total_cases, total_deaths, (total_deaths/total_cases)*100 as Death_Percentage
 from coviddeaths
 where location like '%India%';
